@@ -1,0 +1,17 @@
+# Jupyter notebook checkpoint cache
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large files
+*.h5ad
+*.rds
+*.h5
+*.loom
+*.rda
+
+# System/log file
+*.log
+.DS_Store
